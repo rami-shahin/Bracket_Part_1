@@ -6,4 +6,5 @@ Video connected to this code:
 https://www.youtube.com/watch?v=4r2Un8cnhgc&ab_channel=LearnProgramming
 
 Playlist for remaining of the code, Part 2,3,4:
+https://www.youtube.com/watch?v=4r2Un8cnhgc&list=PL1pod5SlAj0WujFVCr00zRcpCxr5W9lAn&ab_channel=LearnProgramming
 
